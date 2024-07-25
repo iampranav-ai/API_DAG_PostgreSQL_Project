@@ -63,7 +63,9 @@ The `random_joke_api` table has the following structure:
 3. Place the DAG file in your Airflow DAGs folder.
 4. The DAG will run automatically according to the schedule.
 
-## Note
+## Screenshots
+![Random_Jokes](https://github.com/user-attachments/assets/8af9d204-c202-4c13-a363-fa711b44d43d)
+
 
 - The DAG fetches jokes for 10 seconds with a 0.5-second delay between each request.
 - Timestamps are stored in IST (Indian Standard Time).
