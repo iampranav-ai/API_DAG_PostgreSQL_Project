@@ -66,7 +66,7 @@ The `random_joke_api` table has the following structure:
 ## Screenshots
 ![Random_Jokes](https://github.com/user-attachments/assets/8af9d204-c202-4c13-a363-fa711b44d43d)
 
-
+## Notes
 - The DAG fetches jokes for 10 seconds with a 0.5-second delay between each request.
 - Timestamps are stored in IST (Indian Standard Time).
 
